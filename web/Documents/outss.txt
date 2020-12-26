@@ -1,0 +1,1 @@
+Query based Text Summarization involves selection of the key phrases and sentences related to the query from the given information and ensuring them to be in a readable form that is understandable by the user. Most of the existing approaches either completely rely on statistical techniques or on linguistic techniques, it is therefore required to build a more comprehensive model 
